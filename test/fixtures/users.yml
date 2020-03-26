@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  latidute: 1.5
+  longitude: 1.5
+  name: MyString
+  confirmed: 1
+  recovered: 1
+  death: 1
+
+two:
+  latidute: 1.5
+  longitude: 1.5
+  name: MyString
+  confirmed: 1
+  recovered: 1
+  death: 1
